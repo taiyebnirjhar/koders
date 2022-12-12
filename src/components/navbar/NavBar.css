@@ -1,0 +1,17 @@
+.hr__m {
+  margin: 0.675rem 0;
+  opacity: 15%;
+}
+.bg_custom__nav {
+  background-color: #282828;
+}
+.custom_items_center {
+  align-items: center;
+}
+.custom_border {
+  border-bottom: 2px solid gray;
+}
+.custom_margin {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}

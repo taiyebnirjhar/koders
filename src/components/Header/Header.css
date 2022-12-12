@@ -1,0 +1,18 @@
+.custome__container {
+  background: rgb(38, 43, 50);
+  background: linear-gradient(
+    90deg,
+    rgba(38, 43, 50, 1) 0%,
+    rgba(79, 83, 95, 1) 50%,
+    rgba(38, 43, 50, 1) 100%
+  );
+}
+
+.custome__bg__img {
+  background-image: url("../../assets/card_img_1.png");
+}
+.custome_btn {
+  font-size: 0.65rem;
+  line-height: 1rem;
+  padding: 0.4rem 0.6rem;
+}

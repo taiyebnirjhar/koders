@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.problems__container {
+  background-color: #1a1a1a;
+}

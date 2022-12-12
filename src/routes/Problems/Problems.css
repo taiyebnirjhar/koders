@@ -1,0 +1,18 @@
+.problems__container {
+  background-color: #1a1a1a;
+}
+
+.company__container {
+  background-color: #282828;
+}
+
+.custom_border {
+  border-bottom: 2px solid gray;
+}
+.hr__m {
+  margin: 0.675rem 0;
+  opacity: 15%;
+}
+.custom__text {
+  font-size: 0.5rem;
+}

@@ -1,0 +1,13 @@
+.custome__p__card {
+  width: 19.5%;
+}
+
+.card_bg {
+  background: rgb(33, 146, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(33, 146, 255, 1) 0%,
+    rgba(92, 184, 228, 1) 0%,
+    rgba(135, 88, 255, 1) 100%
+  );
+}
